@@ -1,0 +1,19 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Python backend
+backend/.env
+backend/.venv/
+backend/**/__pycache__/
+backend/**/*.py[cod]
+
+# IDE and operating system
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
